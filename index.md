@@ -4,3 +4,7 @@
 
 ``` javascript
 var myVar = "Heya. Nice to see you.";
+
+- [ ] Open Github and finish this lab
+- [ ] Open Google Docs and finish another assignment
+- [ ] Go to bed
